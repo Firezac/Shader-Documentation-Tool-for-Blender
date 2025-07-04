@@ -1,10 +1,13 @@
 🌟 Blender Shader Documentation Tool 🌟
+
 Tired of getting lost in your complex Blender shader node trees? Wish you had a clear, hierarchical overview of how your materials are built, node by node? Look no further! The Blender Shader Documentation Tool is here to save your day (and your sanity)! 🚀
 
 📝 Synopsis
+
 This Blender add-on is a game-changer for anyone working with intricate shader networks. It provides a simple yet powerful way to export a comprehensive, human-readable, pseudo-code representation of your Blender material's node tree into a .txt file. Perfect for quick reference, collaborative projects, or simply understanding the logic behind complex shaders without having to navigate the node editor. Get instant clarity on your material setups!
 
 ✨ Features
+
 Easy Access: Integrates seamlessly into Blender's N-panel (Toolshelf) under its own "Shader Doc" tab.
 
 Shader Selection: A convenient dropdown menu lists all materials in your Blender file, letting you pick exactly which shader you want to document.
@@ -18,6 +21,7 @@ Detailed Information: Displays node names, types, connected inputs, and even def
 Node Group Support: Recursively dives into Node Groups to document their internal structure!
 
 🛠️ Installation
+
 Getting this awesome tool up and running in Blender is super easy!
 
 Download the Add-on:
@@ -53,6 +57,7 @@ Crucially, check the box next to "Shader Documentation Tool" to enable it.
 You're Ready! 🎉 Close the Preferences window.
 
 🚀 How to Use
+
 Open the N-Panel: In any 3D Viewport in Blender, press the N key to open the N-panel (also known as the Toolshelf) on the right side of the screen.
 
 Find the Tab: You'll now see a new tab labeled "Shader Doc". Click on it!
@@ -72,6 +77,7 @@ Click the "Start" button.
 That's it! A .txt file containing your shader's beautifully formatted documentation will be generated at the specified location. Enjoy the clarity! 📄✨
 
 💖 Contributing
+
 Got ideas for improvements? Found a bug? Feel free to contribute! This tool is open-source and loves community input.
 
 Happy Blending and Happy Documenting!
